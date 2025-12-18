@@ -103,7 +103,7 @@ align-items: center;
     background-color: rebeccapurple;
     padding: 10px 20px;
     font-size: 20px;
-    transition: all 0.3s ease;
+    transition: 0.3s ease-in-out;
 }
 
 .hero a:hover {
@@ -208,7 +208,7 @@ align-items: center;
     background-color: rebeccapurple;
     padding: 10px;
     border-radius: 10px;
-    transition: all 0.3 ease;
+    transition: 0.3 ease-in-out;
 }
 
 .proyek-box .desc a:hover {
@@ -271,4 +271,5 @@ footer .sosial a {
 
 
 /* Footer */
+
 
