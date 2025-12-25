@@ -155,7 +155,7 @@ align-items: center;
 
 /* Hero */
 .hero{
-    background-image: linear-gradient(rgba(10, 10, 12, 0.7), rgba(10, 10, 12, 0.7)) ,url(/assets/images/hero-bg.jpg);
+    background-image: linear-gradient(rgba(10, 10, 12, 0.7), rgba(10, 10, 12, 0.7)) ,url('assets/images/hero-bg.jpg');
     width: 100%;
     /* min-heigth liat sikon */
     min-height: 100vh;
@@ -436,4 +436,5 @@ footer .sosial a:hover {
 }
 
 /* Footer */
+
 
