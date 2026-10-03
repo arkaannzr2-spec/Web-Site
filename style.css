@@ -10,6 +10,7 @@
 body {
     background-color: #222227;
     counter-reset: #e0e0e0;
+    transition: 0.5s;
 }
 
 .container {
